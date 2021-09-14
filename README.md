@@ -1,2 +1,1 @@
-# super-duper-robot
-Gatsbyjs site with ChakraUI
+# store code here..
